@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MartinDataNinja
+- 👋 Hi, I’m Martin HABIMANA
 - 👀 I’m interested in global health research 
 - 🌱 I’m currently learning data science and mathematical modeling
 - 💞️ I’m looking to collaborate on building different kind of mathematical models, and data analysis on projects
