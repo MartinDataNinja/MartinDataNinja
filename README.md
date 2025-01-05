@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Martin HABIMANA
-- 👀 I’m interested in global health research 
-- 🌱 I’m currently experience and learning the data science, statistical and mathematical modeling
-- 💞️ I’m looking to collaborate on building different kind of mathematical models, and data analysis on projects
-- 📫 How to reach me on the email: martinhabiman@gmail.com
+- 👀 I’m data scientist, interested in global health research 
+- 🌱 I’m currently data scientist in the Rwanda Ministry of Health
+- 💞️ I’m looking forward to collaborate on building different kinds of mathematical models, and data centered projects
+- 📫 How to reach me, inbox me via "martinhabiman@gmail.com"
 
 
 <!---
